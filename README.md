@@ -1,6 +1,8 @@
 Dashboard de Performance Comercial: Insights Olist
 Projeto Final - EBAC (Escola Britânica de Artes Criativas e Tecnologia)
+
 🎯 Objetivo do Projeto
+
 Este dashboard foi desenvolvido como projeto de conclusão do curso na EBAC. O objetivo principal é transformar dados brutos do ecossistema de e-commerce da Olist (2016-2018) em inteligência de negócio, permitindo a análise multidimensional de vendas, logística e comportamento de categorias.
 
 📊 Estrutura do Dashboard
