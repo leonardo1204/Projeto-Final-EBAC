@@ -27,6 +27,7 @@ Data Storytelling: Legendas explicativas integradas para guiar o usuário na int
 
 🔗 Links de Acesso
 Visualizar Dashboard: https://lookerstudio.google.com/reporting/e90cb4fc-5343-438d-b50c-09ff4b90716f
+
 GG Colab - Coleta, análise, tratamento e insights: https://colab.research.google.com/drive/1gQEyTvWJe3tfOT2tH60-vw7MgMxI19I1?usp=sharing
 
 👤 Autor
